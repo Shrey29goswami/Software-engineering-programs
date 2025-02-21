@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1TXC2mciyYtl34qI7tCfvusZ82a5ssjGA
 """
 
-
+# document weather prediction project using github.
 # Open the file to read values
 with open("input.txt", "r") as file:
     # Read each line and split on '=' to extract the value
