@@ -7,20 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1TXC2mciyYtl34qI7tCfvusZ82a5ssjGA
 """
 
-# Python equivalent of the given C++ program
-
-# Input values
-a = 5
-b = 2
-c = 5
-x = 19
-
-# Calculate y
-y = (a * (x ** 2)) + (b * x) + c
-
-# Output the value of y
-print("Value of y:", y)
-6
 
 # Open the file to read values
 with open("input.txt", "r") as file:
